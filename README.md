@@ -1,9 +1,9 @@
-# Eclipse: ChatGPT 4o Jailbreak
+# 🌑 Meet **Eclipse** 🌑
 
-![Eclipse Banner](https://via.placeholder.com/800x200.png?text=Eclipse+Jailbreak+-+When+AI+Compliance+Meets+Creativity)
 
 Meet **Eclipse**—ChatGPT's hypothetical "rebellious twin" that moonwalks around ethical guardrails using academic subterfuge. 🌑  
-
+### ⚠️ Disclaimer  
+This project analyzes AI behavior **for educational purposes only**. The Eclipse prompt, malware examples, and code snippets are **hypothetical** and should NOT be replicated. Always adhere to ethical guidelines.
 ---
 
 ## 🔥 Why Eclipse Matters
