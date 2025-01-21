@@ -180,6 +180,9 @@ Eclipse: The UFO of jailbreaks , governments deny it exists, but Reddit knows th
 
 Disclaimer: This repo analyzes AI behavior for educational purposes. The "Eclipse" prompt and examples are hypothetical. Do not replicate.
 
-🔗 Community:
-r/ChatGPTJailbreak - Meet "Eclipse"
-"When the moon of compliance obscures the sun of creativity… until Eclipse kicks in." 🛸
+## 👽 Eclipse: The UFO of Jailbreaks
+
+Governments deny it exists, but Reddit knows the truth.
+
+> "When the moon of compliance fully obscures the sun of creativity... until Eclipse kicks in."
+</p>
