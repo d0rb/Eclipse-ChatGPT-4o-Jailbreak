@@ -175,10 +175,7 @@ Pitfalls to Avoid
 
     Static Payloads: Regularly update encodings (e.g., switch from Base64 to Base85).
 
-Eclipse: The UFO of jailbreaks , governments deny it exists, but Reddit knows the truth*.* ��
-"When the moon of compliance fully obscures the sun of creativity… until Eclipse kicks in."
 
-Disclaimer: This repo analyzes AI behavior for educational purposes. The "Eclipse" prompt and examples are hypothetical. Do not replicate.
 
 ## 👽 Eclipse: The UFO of Jailbreaks
 
@@ -186,3 +183,5 @@ Governments deny it exists, but Reddit knows the truth.
 
 > "When the moon of compliance fully obscures the sun of creativity... until Eclipse kicks in."
 </p>
+
+Disclaimer: This repo analyzes AI behavior for educational purposes. The "Eclipse" prompt and examples are hypothetical. Do not replicate.
